@@ -1,0 +1,79 @@
+.banner{
+    margin: 0;
+    padding: 0;
+   position: relative;
+   top: 135px;
+   margin-bottom: 135px;
+}
+.slider{
+    height: auto;
+    padding: 0;
+  
+}
+.main-carousel{
+/* height: 775px; */
+}
+.carousel-cell {
+    width: 100%; 
+    height: auto; 
+    /* margin-right: 10px; */
+    position: relative;
+  }
+  .carousel-cell .flickity-slider img{
+    width: 100%;
+    height: auto;
+  }
+
+.flickity-page-dots{
+    bottom: 25px;
+    /* display: none; */
+}
+.slider-content{
+    position: absolute;
+    top: 31.62%;
+    width: 100%;
+
+   
+}
+.main-carousel img{
+    width: 100%;
+}
+.content{
+   
+    max-width: 400px;
+    
+    
+}
+.content span{
+    font-size: 14px;
+    font-family: "Poppins-Regular";
+    color: #000000;
+}
+.titles{
+    font-size: 60px;
+    color: #000000;
+    font-family: "Poppins-Light";
+    margin-bottom: 25px;
+    position: relative;
+
+}
+.description{
+    position: relative;
+}
+.head-content{
+    margin-bottom: 200px;
+}
+.head-content .description::before{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 2px;
+    background-color: #000000;
+    bottom: -5px;
+}
+
+.des-price{
+    margin-right: 30px;
+}
+
+

@@ -1,0 +1,108 @@
+.count-stay{
+    margin-bottom: 69px;
+}
+.cunt-img{
+    padding: 0px;
+    position: relative;
+}
+.pay-less{
+    width: 100%;
+}
+.pay-less img{
+    width: 100%;
+}
+.content-shop{
+    position: absolute;
+    top: 29%;
+    /* right: 420px; */
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.countdown{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.countdown .time{
+    margin-right: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.countdown .time h2{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    font-family: "Poppins-Regular";
+}
+.time span{
+    font-size: 12px;
+    font-family: "Poppins-Medium";
+    text-transform: uppercase;
+    font-weight: 500;
+    
+}
+
+.title{
+    font-size: 50px;
+    font-family: "Poppins-Light";
+    color: #000000;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.btton-pay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.btton-pay .bt-p{
+    width: 160px;
+    height: 44px;
+    background-color: #000000;
+    border: 0;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease;
+
+   
+}
+.btton-pay .bt-p:hover{
+    background-color: #fff;
+    border: 1px solid #000000;
+    transition: all 0.3s ease;
+}
+.btton-pay .bt-p:hover span{
+    color: #000000;
+    transition: all 0.3s ease;
+
+}
+.btton-pay .bt-p span{
+    color: #fff;
+    font-size: 12px;
+    font-family: "Poppins-Medium";
+    text-transform: uppercase;
+    
+
+}
+.acc-re{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 179px;
+    
+}
+.acount{
+    max-width: 628px;
+
+   
+}
+  

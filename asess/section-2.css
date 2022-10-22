@@ -1,0 +1,161 @@
+.categories{
+    padding-top: 48px;
+    margin: 0px;
+}
+.cate-content{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px;
+}
+.cate-title{
+    font-size: 34px;
+    font-family: "Poppins-Regular";
+    margin-bottom: 32px;
+}
+.cate-content span{
+    color: #868686;
+    font-size: 34px;
+}
+.cate-text{
+    position: relative;
+    margin-top: 85px;
+   
+}
+
+
+.btton-v {
+    
+    width: 182px;
+    height: 40px;
+    border: 1px solid #000000;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    line-height: unset;
+    
+    
+
+}
+.btton-v:hover{
+    background-color: #000000;
+    border: 1px solid #fff;
+    transition: all 0.5s ease;
+   
+    
+}
+.btton-v:hover span{
+    color: #fff;
+    transition: all 0.5s ease;
+}
+.btton-v:hover  svg{
+    fill: #fff;
+    transition: all 0.5s ease;
+}
+.btton-v  span{
+    font-size: 14px;
+    font-family: "Poppins-Regular";
+    color: #000000;
+
+}
+.btton-v  svg{
+    margin-left: 7px;
+    stroke: #000000;
+}
+.main-cate {
+   
+    padding: 0px;
+    /* height: 450px; */
+  }
+  
+  .carousel-cate {
+    width: 358px; 
+    height: auto;
+    margin: 0 16px;
+   
+  }
+  .flickity-viewport{
+    
+  }
+  .main-cate .flickity-button{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease;
+    border-radius: 100%;
+    top: 46%;
+  }
+  .main-cate .flickity-button:hover{
+    background-color: #2aadc5;
+    transition: all 0.3s ease;
+  }
+  .main-cate .flickity-prev-next-button .flickity-button-icon{
+    width: 10px;
+    height: 11px;
+    top: unset;
+    left: unset;
+  }
+  .main-cate  .flickity-prev-next-button.next{
+    right: 30px;
+  }
+  .previous
+  .cate-products{
+    height: 100%;
+    position: relative;
+  }
+  .cate-products img{
+    height: 100%;
+    width: 100%;
+  }
+  .ca-manin{
+    padding-right: 0px;
+    padding-left: 106px;
+  }
+  .jackit{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 42px;
+    background-color: #fff;
+    transition: all 0.3s ease;
+
+  }
+  .jackit:hover{
+    background-color: #000000;
+    transition: all 0.3s ease;
+
+  }
+  .jackit:hover span{
+    color: #fff;
+    transition: all 0.3s ease;
+
+  }
+  .jackit span{
+    font-size: 14px;
+    font-family: "Poppins-Regular";
+    color: #000000;
+    text-transform: capitalize;
+  }
+  .flickity-prev-next-button.previous {
+    left: -15px;
+  }
+  .flickity-prev-next-button{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+  }
+  .flickity-prev-next-button .flickity-button-icon{
+    fill: #000000;
+    font-size: 12px;
+  }
+
+ 

@@ -1,0 +1,66 @@
+.tag-intg{
+    padding-top: 50px;
+    padding-bottom: 55px;
+    border-bottom: 1px solid #eaeaea;
+
+}
+.ins-head{
+    padding: 0;
+    line-height: 40px;
+}
+.ins-head h3{
+ margin: 0;
+}
+.intg-heading{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.title-intag{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 14px;
+}
+.title-intag .text{
+    text-align: right;
+}
+.title-intag p{
+    font-size: 13px;
+    font-family:  "Poppins-Regular";
+    color: #868686;
+    line-height: 24px;
+
+}
+.title-intag a{
+    color: #000000;
+    text-decoration: none;
+}
+.main-intag{
+    height: 100%;
+}
+.carmain-intag{
+    height: 278px;
+}
+.carousel-intag{
+    width: 20%;
+    height: 100%;
+    padding: 0 2px;
+    
+    
+}
+.carousel-intag img{
+    width: 100%;
+}
+.intag-inner{
+    overflow: hidden;
+    transition: all 0.5s ease-in-out;
+}
+.intag-inner img{
+    scale: 1;
+    transition: all 0.5s linear;
+}
+.intag-inner:hover img{
+    scale: 1.1;
+    transition: all 0.5s linear;
+
+}

@@ -1,0 +1,51 @@
+.sunnet{
+    padding-top: 68px;
+}
+.surf-des{
+    
+    background-color: #f8f3f1;
+    
+}
+.container .row .surf1{
+    padding: 0 15px;
+}
+.container .row .surf2{
+    padding: 0 15px;
+
+}
+.container .row{
+    margin: 0;
+}
+.su2{
+    background-color: #f4faf7;
+}
+
+.surf-sun{
+    max-width: 100%;
+}
+.surf-sun a{
+    display: block;
+    text-decoration: none;
+}
+.surf-head img{
+    width: 100%;
+}
+
+.surf-des{
+    padding: 26px 0px 52px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.head-text{
+    font-size: 24px;
+    font-family: "Poppins-Light";
+    color: #000000;
+    margin: 0;
+}
+.surf-des span{
+    font-size: 14px;
+    font-family: "Poppins-Regular";
+    color: #868686;
+}

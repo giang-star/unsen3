@@ -1,0 +1,149 @@
+.customer{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #eaeaea;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 20%, rgba(245, 245, 245, 1) 50%, rgba(254, 254, 254, 1) 100%);;
+    
+}
+
+.psing{
+    margin-bottom: 80px;
+} 
+.customer-heading{
+    padding: 57px 12px 55px 12px;
+    
+}
+.customer-heading h3{
+    font-size: 34px;
+    font-family: "Poppins-Regular";
+    text-transform: capitalize;
+    margin: 0;
+   
+
+}
+.head-con{
+    border-bottom:1px solid #ebebeb ;
+    max-width: 400px;
+}
+.main-custome{
+    /* height: 360px; */
+}
+.head-con h4 {
+    font-size: 14px;
+    font-family: "Poppins-Regular";
+    color: #000000;
+    line-height: 14px;
+    margin-bottom: 30px;
+}
+.customer-heading span{
+    color: #868686;
+}
+
+.carousel-customers{
+    width: 33.3333333333%;
+    padding: 0 15px;
+    
+}
+.cus-cha{
+    width: 100%;
+    height: 100%;
+    padding: 39px 20px 20px 20px;
+    background-color: #ffffff;
+}
+.pointed{
+    margin-bottom: 17px;
+    line-height: 13px;
+    
+}
+.pointed img{
+ 
+    width: 84px;
+    height: 13px;
+}
+.title-cus{
+    font-size: 18px;
+    font-family: "Poppins-Regular";
+    color: #000000;
+    line-height: 18px;
+
+
+}
+.desquestion{
+    margin-bottom: 22px;
+}
+.desquestion span{
+    font-size: 12px ;
+    font-family: "Poppins-Regular";
+    color: #868686;
+    line-height: 12px;
+
+}
+.main-content{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 20px;
+
+}
+.main-img img{
+    width: 61px;
+    height: 74px;
+}
+.text-main{
+    display: flex;
+    flex-direction: column;
+    padding-left: 16px;
+}
+.text-main a{
+    text-decoration: none;
+
+}
+.text-main span{
+    font-size: 12px;
+    color:#868686;
+    line-height: 16px;
+}
+.text-main .bard{
+   
+    font-family: "Poppins-Regular";
+    color: #000000;
+}
+.text-main .bard:hover{
+    color: rgb(234, 126, 255);
+}
+.main-custome .flickity-prev-next-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-custome .flickity-prev-next-button{
+    top: -104px;
+    right: 15px;
+    
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    background-color: #f4f4f4;
+    transition: all 0.5s ease;
+}
+.main-custome .flickity-prev-next-button:hover{
+    background-color: #000000;
+    transition: all 0.5s ease;
+}
+.main-custome .flickity-prev-next-button:hover .flickity-button-icon{
+    fill: #ffffff;
+}
+.main-custome .flickity-prev-next-button.previous{
+    left: 93.5%;
+}
+.main-custome .flickity-prev-next-button .flickity-button-icon{
+    width: 40%;
+    height: 40%;
+   top: unset;
+   left: unset;
+}
+
+
+  
+
+  
